@@ -8,7 +8,8 @@ local U={"https://raw.githubusercontent.com/Iayka/gakuran-loader/main/p/a91f0c.d
 "https://raw.githubusercontent.com/Iayka/gakuran-loader/main/p/0dd94b.dat",
 "https://raw.githubusercontent.com/Iayka/gakuran-loader/main/p/b73c25.dat",
 "https://raw.githubusercontent.com/Iayka/gakuran-loader/main/p/5a80ef.dat",
-"https://raw.githubusercontent.com/Iayka/gakuran-loader/main/p/d04931.dat",
+"https://raw.githubusercontent.com/Iayka/gakuran-loader/main/p/d04931a.dat",
+"https://raw.githubusercontent.com/Iayka/gakuran-loader/main/p/d04931b.dat",
 "https://raw.githubusercontent.com/Iayka/gakuran-loader/main/p/86ce72.dat"}
 local R={} for i=1,#U do R[i]=game:HttpGet(U[i]) end
 local A="lyA71MnYIWkfhCsJjKODZui4tgHr+LXoSp60VEF938m/PGNb5TzUcB2xQRevawdq" local D={} for i=1,#A do D[A:sub(i,i)]=i-1 end
